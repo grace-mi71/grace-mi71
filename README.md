@@ -1,11 +1,12 @@
 # Hi, I'm Gangmin Lee
 
-> **Computer Vision for Structured Visual and Geospatial Signals**
+> **Computer Vision, 3D Reconstruction, and Digital Avatars**
 
-I am an undergraduate student at **Ajou University**, majoring in **Digital Media** and **Software Engineering**.
-My research background includes **computer vision**, **diffusion-based anomaly detection**, **temporal signal modeling**, and **spatial representation learning**.
+I am an undergraduate student at **Ajou University**, double-majoring in **Digital Media** and **Software Engineering**.
 
-Recently, I have been expanding my research direction toward **Remote Sensing AI** and **Geospatial Computer Vision**, with a focus on satellite image understanding, anomaly/change detection, disaster monitoring, and SAR/optical data analysis.
+My research background includes **computer vision**, **3D avatar animation**, **diffusion-based anomaly detection**, **temporal motion modeling**, and **structure-aware visual representation**.
+
+Recently, I have been focusing on **3D reconstruction**, **facial animation**, and **expression retargeting for digital avatars**, with the goal of developing efficient and generalizable methods for creating and animating expressive virtual characters.
 
 ---
 
@@ -13,64 +14,69 @@ Recently, I have been expanding my research direction toward **Remote Sensing AI
 
 My current research interest is centered on the question:
 
-> **How can learning-based models reliably interpret structured visual and geospatial signals?**
+> **How can visual structure and motion be represented and transferred across different 3D characters?**
 
-I have worked on structured visual data such as:
+I have worked with structured visual data such as:
 
 * Surface defect and crack patterns
-* Human motion keypoint sequences
+* Human motion and hand keypoint sequences
 * Patch-wise 3D facial deformation
-* Temporal and spatial visual representations
+* Facial expression presets and blendshape representations
+* Spatially and temporally structured visual signals
 
-I am now extending these ideas to **satellite-based Earth observation**, where visual data is large-scale, multi-temporal, and sensor-dependent.
+I am currently extending these experiences toward **3D reconstruction and digital avatar animation**, particularly methods that reduce dependence on character-specific facial meshes, fixed topology, and manually authored blendshapes.
 
 ### Current Focus
 
-* Remote Sensing AI
-* Geospatial Computer Vision
-* Satellite Image Analysis
-* Anomaly Detection
-* Change Detection
-* SAR/Optical Data Fusion
-* Disaster Monitoring
-* Urban and Infrastructure Monitoring
+* Computer Vision
+* 3D Reconstruction
+* 3D Avatar Generation
+* Facial Animation
+* Facial Expression Retargeting
+* Digital Humans and Virtual Characters
+* Human Motion Analysis
+* Geometry Processing
+* Neural Rendering
+* Generative Models
 
 ---
 
 ## Research & Project Highlights
+
+### Preset-Based Patchwise Decomposition for 3D Avatar Expression Transfer
+
+**Computer Graphics Lab, Ajou University**
+`Computer Graphics` `3D Avatar` `Facial Animation` `Expression Transfer`
+
+* Proposed a patch-wise expression transfer method for VRM/VRoid-style 3D avatars.
+* Decomposed built-in facial expression presets into semantic regions, including the mouth, eyes, brows, and jaw.
+* Constructed localized deformation bases and reconstructed target expressions using nonnegative least-squares optimization.
+* Designed synthetic ground-truth experiments using ARKit 52 blendshapes.
+* Published and presented at **KCGS 2026**.
+
+---
 
 ### Diffusion-based Unsupervised Crack Anomaly Detection
 
 **ENVI Lab, KENTECH Winter Internship**
 `Diffusion Models` `Anomaly Detection` `Structural Priors` `Computer Vision`
 
-* Studied false positives in diffusion-based reconstruction anomaly detection.
-* Designed a structure-aware loss using **Structure Tensor** and **Frangi Filter** priors.
-* Proposed a diffusion-based saliency verification approach for crack anomaly detection.
+* Studied structural false positives in diffusion-based reconstruction anomaly detection.
+* Designed a structure-aware weighted loss using **Structure Tensor** and **Frangi Filter** priors.
+* Proposed a diffusion-based crack saliency verification method based on structural priors and reconstruction consistency.
 * Presented related work at **JCCI 2026**.
-
----
-
-### Preset-Based Patchwise Decomposition for 3D Avatar Expression Transfer
-
-**Computer Graphics Lab, Ajou University**
-`Computer Graphics` `3D Avatar` `Patch-wise Representation` `Expression Transfer`
-
-* Proposed a patch-wise expression transfer method for VRM/VRoid-style 3D avatars.
-* Decomposed built-in expression presets into semantic facial regions such as mouth, eyes, brows, and jaw.
-* Reconstructed target expressions using localized deformation bases and nonnegative least-squares optimization.
-* Submitted to **KCGS 2026**.
 
 ---
 
 ### SIGN UP! — Real-time Sign Language Learning System
 
-**Google-Ajou University AI Capstone Design Competition**
+**Google–Ajou University AI Capstone Design Competition**
 `Temporal Modeling` `Human Motion` `Keypoint Processing` `HCI`
 
 * Built a real-time sign language learning system based on hand keypoint sequences.
 * Designed a temporal preprocessing pipeline for noisy, missing, and variable-length motion data.
-* Awarded the **Excellence Award**, ranked **5th out of 64 teams**.
+* Developed motion-based feedback that allows users to learn sign language interactively rather than through passive video imitation.
+* Received the **Excellence Award**, ranking **5th out of 64 teams**.
 
 ---
 
@@ -79,25 +85,34 @@ I am now extending these ideas to **satellite-based Earth observation**, where v
 **Paran Semester, Ajou University**
 `Unity` `ML-Agents` `Reinforcement Learning` `Simulation`
 
+* Led the development of the **DronePhysics** module for an autonomous drone learning environment.
 * Implemented a 6-DOF rigidbody-based drone flight controller.
 * Developed PID-based stabilization for altitude, roll, pitch, and yaw.
+* Added reset logic, velocity limits, and zero-input damping to improve simulation stability.
 * Built simulation tests for reset stability, yaw response, and horizontal drift damping.
 
 ---
 
-## Upcoming Direction
+## Current Research Direction
 
-I am currently preparing a remote sensing project that connects my previous work in **anomaly detection** and **structured visual representation** with satellite imagery.
+I am currently exploring facial animation methods that represent motion independently of a specific character mesh or blendshape set.
+
+Conventional facial animation pipelines commonly transfer tracking parameters directly into character-specific blendshape weights. Although effective, these pipelines often require each character to have a predefined facial rig, compatible topology, and manually authored expression shapes.
+
+My current research direction investigates whether facial motion can instead be represented through localized deformation, semantic facial regions, or controllable anchors.
 
 Potential research themes include:
 
-* SAR/Optical satellite image analysis
-* Disaster and flood damage detection
-* Multi-temporal change detection
-* Geospatial anomaly detection
-* GeoAI-based visualization systems
+* Topology-flexible facial expression transfer
+* Anchor-based facial deformation
+* Patch-wise facial motion representation
+* Blendshape-efficient avatar animation
+* Human-to-stylized-character facial retargeting
+* Real-time facial performance capture
+* Automatic facial rig and expression generation
+* Image- or video-based 3D avatar reconstruction
 
-The goal is to build a research portfolio that bridges **computer vision**, **remote sensing**, and **real-world decision support systems**.
+The goal is to develop accessible avatar creation and animation systems that reduce character-specific rigging and authoring costs.
 
 ---
 
@@ -107,7 +122,32 @@ The goal is to build a research portfolio that bridges **computer vision**, **re
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+
+### AI / Data Analysis
+
+* Data preprocessing and cleaning
+* Exploratory data analysis
+* Machine learning model training and evaluation
+* Deep learning with PyTorch
+* Computer vision and image processing
+* Temporal keypoint sequence processing
+* Numerical optimization and visual data analysis
+
+### Certification
+
+* **AICE Associate**
+
+### Graphics / Simulation
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge\&logo=unity\&logoColor=white)
+
+* 3D geometry and mesh processing
+* Facial blendshape and expression analysis
+* Unity rigidbody simulation
+* ML-Agents-based reinforcement learning environments
 
 ### Tools
 
@@ -122,6 +162,9 @@ The goal is to build a research portfolio that bridges **computer vision**, **re
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
+* Adobe Illustrator
+* Adobe Lightroom
+
 ---
 
 ## Education
@@ -134,32 +177,36 @@ Relevant coursework:
 
 * Computer Graphics
 * Image Processing
-* Computer Structure
+* Artificial Intelligence
 * Linear Algebra
-* Creative Media Programming
+* Immersive Media Programming
+* Operating Systems
 * Algorithms
+* Computer Architecture
 
 ---
 
 ## Awards & Presentations
 
+* **KCGS 2026** — Oral Presentation, *Preset-Based Patchwise Decomposition of Facial Deformation Bases for 3D Avatar Expression Transfer*
 * **JCCI 2026** — Poster Presentation, *Unsupervised Crack Detection via Diffusion-based Saliency Verification*
-* **Google-Ajou University AI Capstone Design Competition** — Excellence Award, ranked **5th out of 64 teams**
+* **Google–Ajou University AI Capstone Design Competition** — Excellence Award, ranked **5th out of 64 teams**
 * **Ajou University SW-Centered University “Mogakso” Program** — Winner, ranked **1st out of 25 teams**
-* **KCGS 2026** — Submission, *Preset-Based Patchwise Decomposition of Facial Deformation Bases for 3D Avatar Expression Transfer*
 
 ---
 
 ## Contact
 
 * Email: [jerry3708@ajou.ac.kr](mailto:jerry3708@ajou.ac.kr)
-* GitHub: `https://github.com/grace_mi71`
+* GitHub: [github.com/grace_mi71](https://github.com/grace_mi71)
 * Portfolio: `Coming soon`
 
 ---
 
 ## Research Identity
 
-I am interested in building AI systems that do not simply classify images, but understand **structure**, **change**, and **spatial context**.
+I am interested in building computer vision systems that do not simply recognize visual content, but understand and reconstruct its **geometry**, **structure**, **motion**, and **deformation**.
 
-My long-term goal is to contribute to reliable **Remote Sensing AI** systems for disaster assessment, environmental monitoring, urban analysis, and infrastructure safety inspection.
+My long-term goal is to contribute to accessible technologies for **3D reconstruction, digital avatar generation, facial performance capture, and expressive virtual character animation**.
+
+In particular, I aim to develop representations that allow facial motion captured from a human performer to be transferred to diverse stylized characters without requiring extensive character-specific blendshape authoring or manual facial rigging.

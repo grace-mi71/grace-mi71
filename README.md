@@ -69,29 +69,6 @@ Recently, I have been focusing on **3D reconstruction**, **facial animation**, a
 
 ---
 
-## Current Research Direction
-
-I am currently exploring facial animation methods that represent motion independently of a specific character mesh or blendshape set.
-
-Conventional facial animation pipelines commonly transfer tracking parameters directly into character-specific blendshape weights. Although effective, these pipelines often require each character to have a predefined facial rig, compatible topology, and manually authored expression shapes.
-
-My current research direction investigates whether facial motion can instead be represented through localized deformation, semantic facial regions, or controllable anchors.
-
-Potential research themes include:
-
-* Topology-flexible facial expression transfer
-* Anchor-based facial deformation
-* Patch-wise facial motion representation
-* Blendshape-efficient avatar animation
-* Human-to-stylized-character facial retargeting
-* Real-time facial performance capture
-* Automatic facial rig and expression generation
-* Image- or video-based 3D avatar reconstruction
-
-The goal is to develop accessible avatar creation and animation systems that reduce character-specific rigging and authoring costs.
-
----
-
 ## Tech Stack
 
 ### Main

@@ -58,6 +58,8 @@ I am currently extending these experiences toward **3D reconstruction and digita
 
 ### Diffusion-based Unsupervised Crack Anomaly Detection
 
+[![GitHub Project](https://img.shields.io/badge/GitHub-Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KENTECH-AD-project/Infer_by_4_ways)
+
 **ENVI Lab, KENTECH Winter Internship**
 `Diffusion Models` `Anomaly Detection` `Structural Priors` `Computer Vision`
 
@@ -70,6 +72,8 @@ I am currently extending these experiences toward **3D reconstruction and digita
 
 ### SIGN UP! — Real-time Sign Language Learning System
 
+[![GitHub Project](https://img.shields.io/badge/GitHub-Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GooChiSo)
+
 **Google–Ajou University AI Capstone Design Competition**
 `Temporal Modeling` `Human Motion` `Keypoint Processing` `HCI`
 
@@ -81,6 +85,8 @@ I am currently extending these experiences toward **3D reconstruction and digita
 ---
 
 ### Unity-based Drone Reinforcement Learning Environment
+
+[![GitHub Project](https://img.shields.io/badge/GitHub-Project-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alpha7179/IIT_DroneLearning)
 
 **Paran Semester, Ajou University**
 `Unity` `ML-Agents` `Reinforcement Learning` `Simulation`
@@ -198,7 +204,8 @@ Relevant coursework:
 ## Contact
 
 * Email: [jerry3708@ajou.ac.kr](mailto:jerry3708@ajou.ac.kr)
-* GitHub: [github.com/grace_mi71](https://github.com/grace_mi71)
+* GitHub: [github.com/grace-mi71](https://github.com/grace-mi71)
+* BOJ / solved.ac: [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=jerry3708)](https://solved.ac/profile/jerry3708)
 * Portfolio: `Coming soon`
 
 ---

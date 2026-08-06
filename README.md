@@ -22,7 +22,7 @@ Recently, I have been focusing on **3D reconstruction**, **facial animation**, a
 * Decomposed built-in facial expression presets into semantic regions, including the mouth, eyes, brows, and jaw.
 * Constructed localized deformation bases and reconstructed target expressions using nonnegative least-squares optimization.
 * Designed synthetic ground-truth experiments using ARKit 52 blendshapes.
-* Published and presented at **KCGS 2026(Oral Presentation)**.
+* Published and presented at **KCGS 2026 (First author, Oral Presentation)**.
 
 ---
 
@@ -36,7 +36,7 @@ Recently, I have been focusing on **3D reconstruction**, **facial animation**, a
 * Studied structural false positives in diffusion-based reconstruction anomaly detection.
 * Designed a structure-aware weighted loss using **Structure Tensor** and **Frangi Filter** priors.
 * Proposed a diffusion-based crack saliency verification method based on structural priors and reconstruction consistency.
-* Published and presented at **JCCI 2026(Poster Presentation)**.
+* Published and presented at **JCCI 2026 (First author, Poster Presentation)**.
 
 ---
 
@@ -129,6 +129,12 @@ Recently, I have been focusing on **3D reconstruction**, **facial animation**, a
 * **Ajou University SW-Centered University “Mogakso” Program** — Winner, ranked **1st out of 25 teams**
 * **2025-2 아주대학교 자기개발장학(Self-Development Scholarship)**
 
+---
+
+## ARTISTIC & EXTRACURRICULAR
+* **아주대학교 중앙사진동아리(A.SA.)** - Treasurer(2022), Research Team member(2023), Vice President(2025)
+*  Planned and exhibited series **"현실과 이상"** (Seongsu-dong, Seoul / 2025.11)
+*  Planned and exhibited series **“빛, 갈피”** (Itaewon, Seoul / 2022.11)
 ---
 
 ## Contact

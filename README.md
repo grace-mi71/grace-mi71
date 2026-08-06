@@ -22,7 +22,7 @@ Recently, I have been focusing on **3D reconstruction**, **facial animation**, a
 * Decomposed built-in facial expression presets into semantic regions, including the mouth, eyes, brows, and jaw.
 * Constructed localized deformation bases and reconstructed target expressions using nonnegative least-squares optimization.
 * Designed synthetic ground-truth experiments using ARKit 52 blendshapes.
-* Published and presented at **KCGS 2026**.
+* Published and presented at **KCGS 2026(Oral Presentation)**.
 
 ---
 
@@ -36,7 +36,7 @@ Recently, I have been focusing on **3D reconstruction**, **facial animation**, a
 * Studied structural false positives in diffusion-based reconstruction anomaly detection.
 * Designed a structure-aware weighted loss using **Structure Tensor** and **Frangi Filter** priors.
 * Proposed a diffusion-based crack saliency verification method based on structural priors and reconstruction consistency.
-* Presented related work at **JCCI 2026**.
+* Published and presented at **JCCI 2026(Poster Presentation)**.
 
 ---
 

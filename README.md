@@ -1,6 +1,6 @@
 # Hi, I'm Gangmin Lee
 
-> ** Interest in Computer Vision, Computer Graphics, and Digital Avatars**
+> **Interest in Computer Vision, Computer Graphics, and Digital Avatars**
 
 I am an undergraduate student at **Ajou University**, double-majoring in **Digital Media** and **Software Engineering**.
 

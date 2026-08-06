@@ -10,20 +10,6 @@ Recently, I have been focusing on **3D reconstruction**, **facial animation**, a
 
 ---
 
-### Current Focus
-
-* Computer Vision
-* 3D Reconstruction
-* 3D Avatar Generation
-* Facial Animation
-* Facial Expression Retargeting
-* Digital Humans and Virtual Characters
-* Human Motion Analysis
-* Geometry Processing
-* Neural Rendering
-* Generative Models
-
----
 
 ## Research & Project Highlights
 

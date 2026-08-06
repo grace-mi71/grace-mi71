@@ -127,6 +127,7 @@ Recently, I have been focusing on **3D reconstruction**, **facial animation**, a
 * **JCCI 2026** — Poster Presentation, *Unsupervised Crack Detection via Diffusion-based Saliency Verification*
 * **Google–Ajou University AI Capstone Design Competition** — Excellence Award, ranked **5th out of 64 teams**
 * **Ajou University SW-Centered University “Mogakso” Program** — Winner, ranked **1st out of 25 teams**
+* **2025-2 아주대학교 자기개발장학(Self-Development Scholarship)**
 
 ---
 

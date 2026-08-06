@@ -10,22 +10,6 @@ Recently, I have been focusing on **3D reconstruction**, **facial animation**, a
 
 ---
 
-## Research Direction
-
-My current research interest is centered on the question:
-
-> **How can visual structure and motion be represented and transferred across different 3D characters?**
-
-I have worked with structured visual data such as:
-
-* Surface defect and crack patterns
-* Human motion and hand keypoint sequences
-* Patch-wise 3D facial deformation
-* Facial expression presets and blendshape representations
-* Spatially and temporally structured visual signals
-
-I am currently extending these experiences toward **3D reconstruction and digital avatar animation**, particularly methods that reduce dependence on character-specific facial meshes, fixed topology, and manually authored blendshapes.
-
 ### Current Focus
 
 * Computer Vision
@@ -173,24 +157,6 @@ The goal is to develop accessible avatar creation and animation systems that red
 
 ---
 
-## Education
-
-**Ajou University**
-B.S. in **Digital Media** and **Software Engineering**
-2021 — Present
-
-Relevant coursework:
-
-* Computer Graphics
-* Image Processing
-* Artificial Intelligence
-* Linear Algebra
-* Immersive Media Programming
-* Operating Systems
-* Algorithms
-* Computer Architecture
-
----
 
 ## Awards & Presentations
 
@@ -208,12 +174,3 @@ Relevant coursework:
 * BOJ / solved.ac: [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=jerry3708)](https://solved.ac/profile/jerry3708)
 * Portfolio: `Coming soon`
 
----
-
-## Research Identity
-
-I am interested in building computer vision systems that do not simply recognize visual content, but understand and reconstruct its **geometry**, **structure**, **motion**, and **deformation**.
-
-My long-term goal is to contribute to accessible technologies for **3D reconstruction, digital avatar generation, facial performance capture, and expressive virtual character animation**.
-
-In particular, I aim to develop representations that allow facial motion captured from a human performer to be transferred to diverse stylized characters without requiring extensive character-specific blendshape authoring or manual facial rigging.

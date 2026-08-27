@@ -6,7 +6,7 @@ I am an undergraduate student at **Ajou University**, double-majoring in **Digit
 
 My research background includes **computer vision**, **3D avatar animation**, **diffusion-based anomaly detection**, **temporal motion modeling**, and **structure-aware visual representation**.
 
-Recently, I have been focusing on **3D reconstruction**, **facial animation**, and **expression retargeting for digital avatars**, with the goal of developing efficient and generalizable methods for creating and animating expressive virtual characters.
+My current research interests lie in 3D vision, image restoration, and image processing, with a particular interest in understanding visual structures and recovering high-quality visual information from imperfect observations.
 
 ---
 

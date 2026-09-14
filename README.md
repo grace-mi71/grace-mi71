@@ -89,7 +89,7 @@ My current research interests lie in 3D vision, image restoration, and image pro
 * Temporal keypoint sequence processing
 * Numerical optimization and visual data analysis
 
-### Certification
+### Qualifications
 
 * **AICE Associate**
 
@@ -126,7 +126,8 @@ My current research interests lie in 3D vision, image restoration, and image pro
 * **KCGS 2026** — Oral Presentation, *Preset-Based Patchwise Decomposition of Facial Deformation Bases for 3D Avatar Expression Transfer*
 * **JCCI 2026** — Poster Presentation, *Unsupervised Crack Detection via Diffusion-based Saliency Verification*
 * **Google–Ajou University AI Capstone Design Competition** — Excellence Award, ranked **5th out of 64 teams**
-* **Ajou University SW-Centered University “Mogakso” Program** — Winner, ranked **1st out of 25 teams**
+* **Ajou University SW-Centered University “2025-2 Mogakso” Program** — Winner, ranked **1st out of 25 teams**
+* **Ajou University SW-Centered University “2026-1 Mogakso” Program** — Award, ranked **5th out of 25 teams**
 * **2025-2 아주대학교 자기개발장학(Self-Development Scholarship)**
 
 ---

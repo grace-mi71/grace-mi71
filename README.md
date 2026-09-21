@@ -4,10 +4,6 @@
 
 I am an undergraduate student at **Ajou University**, double-majoring in **Digital Media** and **Software Engineering**.
 
-My research background includes **computer vision**, **3D avatar animation**, **diffusion-based anomaly detection**, **temporal motion modeling**, and **structure-aware visual representation**.
-
-My current research interests lie in 3D vision, image restoration, and image processing, with a particular interest in understanding visual structures and recovering high-quality visual information from imperfect observations.
-
 ---
 
 

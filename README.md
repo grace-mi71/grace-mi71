@@ -67,23 +67,15 @@ I am an undergraduate student at **Ajou University**, double-majoring in **Digit
 
 ## Tech Stack
 
-### Main
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-
-### AI / Data Analysis
-
-* Data preprocessing and cleaning
-* Exploratory data analysis
-* Machine learning model training and evaluation
-* Deep learning with PyTorch
-* Computer vision and image processing
-* Temporal keypoint sequence processing
-* Numerical optimization and visual data analysis
 
 ### Qualifications
 

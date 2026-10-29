@@ -121,6 +121,7 @@ I am an undergraduate student at **Ajou University**, double-majoring in **Digit
 
 ## ARTISTIC & EXTRACURRICULAR
 * **아주대학교 중앙사진동아리(A.SA.)** - Treasurer(2022), Research Team member(2023), Vice President(2025)
+*  Planned and exhibited series **"전람회"** (Insa-dong, Seoul / 2026.11)
 *  Planned and exhibited series **"현실과 이상"** (Seongsu-dong, Seoul / 2025.11)
 *  Planned and exhibited series **“빛, 갈피”** (Itaewon, Seoul / 2022.11)
 ---

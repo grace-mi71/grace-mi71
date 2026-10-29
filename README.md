@@ -28,6 +28,23 @@ I am an undergraduate student at **Ajou University**, double-majoring in **Digit
 
 <br/>
 
+### 🧭 Nest Compass — AI-Powered Travel Accommodation Recommendation
+
+**Ajou University PBL Project — PM / Product Owner**
+`Product Planning` `AI Agent` `RAG` `Service Development`
+
+**Problem** — Finding accommodation that fits a travel itinerary requires comparing prices, locations, transportation routes, and personal preferences across multiple services.
+
+**Approach**
+
+* **Product ownership:** Led problem definition, MVP scoping, feature prioritization, and project scheduling, translating team discussions into actionable development tasks.
+* **Service design:** Defined an itinerary-based recommendation workflow that considers destinations, travel routes, budgets, and user preferences.
+* **AI integration:** Coordinated the development of an AI-powered recommendation service combining multi-agent workflows, retrieval-augmented generation, and evidence-based recommendation explanations.
+
+**Result** — Delivered a functional web-based MVP with the team, integrating itinerary analysis, AI-powered accommodation recommendations, and operational monitoring.
+
+<br/>
+
 ### 🎭 Preset-Based Patchwise Decomposition for 3D Avatar Expression Transfer
 
 **Computer Graphics Lab, Ajou University** · `2026.03 – 2026.06`<br/>

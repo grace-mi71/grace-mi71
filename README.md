@@ -1,18 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:5C3EE8,100:00C2FF&height=260&section=header&text=Gangmin%20Lee&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Product%20Manager%20and%20Developer&descSize=18&descAlignY=56&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6495ed,100:00C2FF&height=260&section=header&text=Gangmin%20Lee&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Product%20Manager%20and%20Developer&descSize=18&descAlignY=56&animation=twinkling)
 
 I am an undergraduate student at **Ajou University**, double-majoring in **Digital Media** and **Software Engineering**.<br/>
 
 <br/>
-
-<a href="https://github.com/grace-mi71">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=grace-mi71&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/grace-mi71">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grace-mi71&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
-</a>
-
 </div>
 
 ---
@@ -152,12 +144,12 @@ I am an undergraduate student at **Ajou University**, double-majoring in **Digit
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-jerry3708%40ajou.ac.kr-0078D4?style=flat-square&logo=maildotru&logoColor=white)](mailto:0701jerry@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0701jerry%40gmail.com-0078D4?style=flat-square&logo=maildotru&logoColor=white)](mailto:0701jerry@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-grace--mi71-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/grace-mi71)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20soon-lightgrey?style=flat-square)](#)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20soon-lightgrey?style=flat-square)](#)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=jerry3708)](https://solved.ac/profile/jerry3708)
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:5C3EE8,100:00C2FF&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6495ed,100:00C2FF&height=120&section=footer)

@@ -30,7 +30,7 @@ I am an undergraduate student at **Ajou University**, double-majoring in **Digit
 
 ### 🧭 Nest Compass — AI-Powered Travel Accommodation Recommendation
 
-**Ajou University PBL Project — PM / Product Owner**
+**Ajou University PBL Project — PM / Product Owner** · `2026.01 – 2026.02`<br/>
 `Product Planning` `AI Agent` `RAG` `Service Development`
 
 **Problem** — Finding accommodation that fits a travel itinerary requires comparing prices, locations, transportation routes, and personal preferences across multiple services.

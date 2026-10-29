@@ -98,13 +98,11 @@ I am an undergraduate student at **Ajou University**, double-majoring in **Digit
 
 # Skills 💪🏻
 
-## ⌨️ Languages
-
+### ⌨️ Languages
 [![Python](https://img.shields.io/badge/Python3-3776AB?style=flat-square&logo=python&logoColor=white)](https://docs.python.org/3/)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://en.cppreference.com/w/)
 
-## 📦 ML / Vision
-
+### 📦 ML / Vision
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/docs/stable/index.html)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/doc/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
@@ -113,12 +111,10 @@ I am an undergraduate student at **Ajou University**, double-majoring in **Digit
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev/edge/mediapipe)
 [![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)](https://ffmpeg.org/documentation.html)
 
-## 🎮 Graphics / Simulation
-
+### 🎮 Graphics / Simulation
 [![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)](https://docs.unity3d.com/)
 
-## 🛠 Tools
-
+### 🛠 Tools
 [![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)](https://www.latex-project.org)
@@ -128,8 +124,7 @@ I am an undergraduate student at **Ajou University**, double-majoring in **Digit
 [![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
 [![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white)](https://www.adobe.com/products/photoshop-lightroom.html)
 
-## 📜 Qualifications
-
+### 📜 Qualifications
 ![AICE Associate](https://img.shields.io/badge/AICE-Associate-1E3A8A?style=flat-square)
 
 ---

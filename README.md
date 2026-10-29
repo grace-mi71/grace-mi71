@@ -9,6 +9,18 @@ I am an undergraduate student at **Ajou University**, double-majoring in **Digit
 
 ## Research & Project Highlights
 
+### Scene Talk! — Multimodal Audio Description for Visually Impaired Users
+
+**Hyundai AutoEver Barrier-Free Contest — Finalist (Top 7 Teams)**
+`Multimodal Learning` `Vision-Language Models` `Video Understanding` `Accessibility`
+
+* Developing a multimodal video understanding system that jointly analyzes audio, visual, and language modalities to generate context-aware audio descriptions for visually impaired users.
+* Built a preprocessing pipeline combining VAD, FFmpeg scene detection, and STT to identify non-dialogue intervals and reconstruct scene-level temporal context in long-form video.
+* Integrated Vision-Language Models with selective keyframe sampling, reducing redundant visual input and inference cost while preserving narrative coherence.
+* Selected as a **finalist (Top 7 teams)**; currently in development for the final round.
+
+---
+
 ### Preset-Based Patchwise Decomposition for 3D Avatar Expression Transfer
 
 **Computer Graphics Lab, Ajou University**
